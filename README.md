@@ -20,10 +20,9 @@ git fetch && git checkout master
 
 İmzalı .apk dosyasını [buradan][5] edinebilirsiniz.
 --------------------
+Türkçe ve İngilizce dillerini desteklemektedir.
 
 ![Alt Text](https://media.giphy.com/media/xThta2L6nunFKIcPbG/giphy.gif)
-
-Türkçe ve İngilizce dillerini desteklemektedir.
 
 Bu bir Gradle projesidir ve aşağıdaki maven dependency'lerini kullanır
 --------------------
