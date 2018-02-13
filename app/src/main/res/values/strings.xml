@@ -6,12 +6,12 @@
     <string name="general_next">İleri</string>
     <string name="general_ok">Tamam</string>
 
-    <string name="no_record_fount">Tamam</string>
+    <string name="no_record_fount">Hiç Hayıt Bulunamadı :(</string>
 
     <string name="warning_min_value">Lütfen alt değeri giriniz!</string>
     <string name="warning_max_value">Lütfen üst değeri giriniz!</string>
-    <string name="warning_max_must_greater_or_equal_than_min">Alt değer üst değerden küçük olmalıdır!</string>
-    <string name="warning_date">Alt değer üst değerden küçük olmalıdır!</string>
+    <string name="warning_max_must_greater_or_equal_than_min">Alt değer üst değerden küçük veya eşit olmalıdır!</string>
+    <string name="warning_date">Lütfen tarih aralığını seçiniz!</string>
 
     <string name="info_content_listing">Kayıtlar listeleniyor...</string>
     <string name="info_no_result">Hiç Hayıt Bulunamadı :(</string>
