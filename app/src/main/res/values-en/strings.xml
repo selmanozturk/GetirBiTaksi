@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GetirBiTaksi</string>
+
+    <string name="general_skip">Skip</string>
+    <string name="general_prev">Back</string>
+    <string name="general_next">Next</string>
+    <string name="general_ok">OK</string>
+
+    <string name="no_record_fount">No record found!</string>
+
+    <string name="warning_min_value">Please enter the min value!</string>
+    <string name="warning_max_value">Please enter the max value!</string>
+    <string name="warning_max_must_greater_or_equal_than_min">
+        Min value must be less than or equal to max value!
+    </string>
+    <string name="warning_date">Please select the date interval!</string>
+
+    <string name="info_content_listing">Records listing...</string>
+    <string name="info_no_result">No records found :(</string>
+    <string name="info_go_back_retry">Turn back and retry!</string>
+
+    <string name="error_getting_results">Error occured getting results!</string>
+
+
+</resources>
