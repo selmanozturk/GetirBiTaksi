@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#ffc600</color>
+    <color name="colorPrimaryDark">#e4b102</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="transparent">#00000000</color>
-    <color name="dividerColor">#e0e0e0</color>
-    <color name="custom_header_text">#030303</color>
+
+    <color name="calendar_header">@color/colorPrimary</color>
+    <color name="calendar_header_title">#5d41ba</color>
+    <color name="selected_date_circle_color">#5d41ba</color>
+    <color name="range_color">#cbbbff</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="getir_purple">#5d41ba</color>
+    <color name="getir_yellow">#ffc600</color>
+    <color name="getir_yellow_passive">#bc9201</color>
+
+    <color name="test_color">#7f04004a</color>
+
+    <color name="tutorial_bg">#ee6c0c</color>
+    <color name="dot_dark_screen">#5d41ba</color>
+    <color name="dot_light_screen">#ffffff</color>
+
 </resources>
