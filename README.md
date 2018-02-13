@@ -23,6 +23,8 @@ git fetch && git checkout master
 
 ![Alt Text](https://media.giphy.com/media/xThta2L6nunFKIcPbG/giphy.gif)
 
+Türkçe ve İngilizce dillerini desteklemektedir.
+
 Bu bir Gradle projesidir ve aşağıdaki maven dependency'lerini kullanır
 --------------------
 [Gson][1], 
